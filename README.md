@@ -10,8 +10,8 @@ Le but ici à été d'apprendre à gérer des tâches asynchrone et aussi améli
 fluide.
 
 A LIRE :
-ligne 25, player_name : pour votre pseudo
-ligne 27, api_key : votre clé d'api => /api en jeu
-ligne 82 et 87,ID discord : pour être mentionné
-ligne 90, token : le token de votre bot
-ligne 76, channel : l'id channel pour recevoir les messages
+ligne 25, player_name : pour votre pseudo 
+ligne 27, api_key : votre clé d'api => /api en jeu 
+ligne 82 et 87,ID discord : pour être mentionné 
+ligne 90, token : le token de votre bot 
+ligne 76, channel : l'id channel pour recevoir les messages 
